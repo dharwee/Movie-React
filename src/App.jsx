@@ -1,5 +1,6 @@
 
-import './App.css'
+import "./css/App.css"
+
 import Home from "./pages/Home.jsx"
 import Favorites from "./pages/Favorites.jsx"
 import {Routes, Route, Router} from "react-router-dom"
